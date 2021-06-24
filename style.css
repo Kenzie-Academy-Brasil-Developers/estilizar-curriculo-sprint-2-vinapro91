@@ -1,27 +1,59 @@
 .clear {
 	clear: both;
 }
-
+body, html {
+	background-color: #f3f3f3;
+}
+body h1 {
+	font-family: Helvetica , sans-serif;
+}
+h1 , h2 {
+	font-family:"Rokkitt" , sans-serif;
+	color:#444444;
+}
+#contactDetails, .subDetails{
+	color:#181818;
+}
 #headshot {
-	width: 12.5%;
 	float: left;
 	margin-right: 30px;
+}
+img {
+	border-radius: 50%;
 }
 
 #name {
 	float: left;
+	margin:0 auto;
 }
-
+#contactDetails li {
+	list-style: none;
+}
 #contactDetails {
 	float: right;
 }
-
-.sectionTitle {
+.mainDetails {
+	padding: 25px 35px;
+	border-bottom:solid 2px #cf8a05;
+}
+.sectionTitle{
+	
 	float: left;
 	width: 25%;
+	color:#cf8a05;
 }
-
+.sectionTitle h1 {
+	color:#cf8a05;
+	font-family:"Rokkitt" , sans-serif;
+}
+section {
+	padding: 20px 0 0;
+	border-top: solid 1px #dedede;
+}
 .sectionContent {
 	float: right;
 	width: 72.5%;
+}
+.keySkills li {
+	list-style: none;
 }
