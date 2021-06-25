@@ -57,3 +57,6 @@ section {
 .keySkills li {
 	list-style: none;
 }
+.keySkills {
+	column-count: 3;
+}

@@ -7,7 +7,7 @@ Para esta atividade, você precisará atualizar as regras em `style.css` para co
 A única coisa que nós fizemos por você neste nível foi o alinhamento. Você terá que descobrir todo o resto por conta própria!
 
 ## Fontes
-Para as tags body e html, você pode utilizar as seguintes fontes: `'Lato'`, `'Helvetica'` e `'Arial'`, juntamente com o `sans-serif` por padrão. Exemplo: `<nome-fonte>, **sans-serif**`
+Para as tags body e html, svocê pode utilizar as seguintes fonte: `'Lato'`, `'Helvetica'` e `'Arial'`, juntamente com o `sans-serif` por padrão. Exemplo: `<nome-fonte>, **sans-serif**`
 
 Para os títulos você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
 
