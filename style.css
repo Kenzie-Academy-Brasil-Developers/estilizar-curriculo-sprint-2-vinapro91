@@ -3,13 +3,15 @@
 }
 body, html {
 	background-color: #f3f3f3;
+	font-family: Helvetica , sans-serif;
+	padding: 0% 10%;
 }
 body h1 {
-	font-family: Helvetica , sans-serif;
 }
 h1 , h2 {
 	font-family:"Rokkitt" , sans-serif;
 	color:#444444;
+
 }
 #contactDetails, .subDetails{
 	color:#181818;
@@ -28,6 +30,11 @@ img {
 }
 #contactDetails li {
 	list-style: none;
+}
+#contactDetails li a {
+	color:black;
+	text-decoration: none;
+	
 }
 #contactDetails {
 	float: right;
